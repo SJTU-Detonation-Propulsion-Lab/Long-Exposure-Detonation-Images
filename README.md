@@ -3,9 +3,10 @@
 ## Experimental Procedure
 
 Currently, this repository mainly contains low-pressure experimental data for gas mixtures including:
--C2H2+2.5O2
--C2H2+2.5O2+50%Ar 
--C2H2+2.5O2+70%Ar
+
+- C<sub>2</sub>H<sub>2</sub> + 2.5O<sub>2</sub>
+- C<sub>2</sub>H<sub>2</sub> + 2.5O<sub>2</sub> + 50% Ar
+- C<sub>2</sub>H<sub>2</sub> + 2.5O<sub>2</sub> + 70% Ar
 
 We will continuously update the repository with more experimental data for different gas mixtures, different diluent gas, schlieren images, and improved segmentation models in the future.
 
